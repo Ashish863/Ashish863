@@ -98,3 +98,11 @@ Engineering
  ├── Cloud
  ├── System Design
  └── Distributed Systems
+```
+---
+
+## 📊 GitHub Stats
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish863&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish863&layout=compact&theme=tokyonight)
