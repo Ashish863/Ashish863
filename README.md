@@ -1,4 +1,4 @@
-#  About Me:
+# 💻 About Me:
 
 Hey, I'm Ashish.
 
@@ -14,57 +14,48 @@ Still learning, still building.
 
 ## 🌐 Socials:
 
-[![GitHub](https://shields.io)](https://github.com/Ashish863)
-[![LeetCode](https://shields.io)](https://leetcode.com/AshishShukla20)
-[![Gmail](https://shields.io)](mailto:aashishshukla3186@gmail.com)
+<a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+<a href="https://leetcode.com"><img src="https://shields.io" alt="LeetCode"></a>
+<a href="mailto:aashishshukla3186@gmail.com"><img src="https://shields.io" alt="Gmail"></a>
 
 ---
 
 ## 💻 Tech Stack:
 
-![C](https://shields.io)
-![Java](https://shields.io)
-![HTML5](https://shields.io)
-![JavaScript](https://shields.io)
-![Markdown](https://shields.io)
-![Python](https://shields.io)
-![Render](https://shields.io)
-![Netlify](https://shields.io)
+<img src="https://shields.io" alt="C">
+<img src="https://shields.io" alt="Java">
+<img src="https://shields.io" alt="HTML5">
+<img src="https://shields.io" alt="JavaScript">
+<img src="https://shields.io" alt="Markdown">
+<img src="https://shields.io" alt="Python">
+<img src="https://shields.io" alt="Render">
+<img src="https://shields.io" alt="Netlify">
 
-![Vercel](https://shields.io)
-![Bootstrap](https://shields.io)
-![Context-API](https://shields.io)
-![Express.js](https://shields.io)
-![JWT](https://shields.io)
-![NPM](https://shields.io)
-![Node.JS](https://shields.io)
+<br><br>
 
-![Nodemon](https://shields.io)
-![React](https://shields.io)
-![React Native](https://shields.io)
-![React Router](https://shields.io)
-![React Hook Form](https://shields.io)
-![Socket.io](https://shields.io)
+<img src="https://shields.io" alt="Vercel">
+<img src="https://shields.io" alt="Bootstrap">
+<img src="https://shields.io" alt="Context API">
+<img src="https://shields.io" alt="Express">
+<img src="https://shields.io" alt="JWT">
+<img src="https://shields.io" alt="NPM">
+<img src="https://shields.io" alt="Node.js">
 
-![TailwindCSS](https://shields.io)
-![Vite](https://shields.io)
-![Apache](https://shields.io)
-![Apache Tomcat](https://shields.io)
-![Apache Maven](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
+<br><br>
 
-<!--
-**Ashish863/Ashish863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://shields.io" alt="Nodemon">
+<img src="https://shields.io" alt="React">
+<img src="https://shields.io" alt="React Native">
+<img src="https://shields.io" alt="React Router">
+<img src="https://shields.io" alt="React Hook Form">
+<img src="https://shields.io" alt="Socket.io">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://shields.io" alt="Tailwind">
+<img src="https://shields.io" alt="Vite">
+<img src="https://shields.io" alt="Apache">
+<img src="https://shields.io" alt="Tomcat">
+<img src="https://shields.io" alt="Maven">
+<img src="https://shields.io" alt="MySQL">
+<img src="https://shields.io" alt="MongoDB">
