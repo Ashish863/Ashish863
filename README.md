@@ -103,8 +103,10 @@ Engineering
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish863&show_icons=true)
+![Ashish's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish863&layout=compact)
+![Top Languages](./profile/top-langs.svg)
